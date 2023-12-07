@@ -1,0 +1,15 @@
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.exe
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.deps.json
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.runtimeconfig.json
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.runtimeconfig.dev.json
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.dll
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\ConsumeRestApi.pdb
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.csprojAssemblyReference.cache
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.AssemblyInfoInputs.cache
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.AssemblyInfo.cs
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.dll
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.pdb
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.genruntimeconfig.cache
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin-PC\source\repos\ConsumeRestApi\ConsumeRestApi\obj\Debug\netcoreapp3.1\ConsumeRestApi.csproj.CopyComplete
